@@ -1,0 +1,17 @@
+# Wine Quality Analysis - Role A
+# Required packages for RoleA_Complete_Analysis.ipynb
+
+# Data manipulation
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Statistical analysis
+scipy>=1.10.0
+
+# Jupyter notebook
+jupyter
+ipykernel

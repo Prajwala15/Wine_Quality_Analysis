@@ -1,0 +1,12 @@
+Feature,F-statistic,p-value,Significant
+alcohol,308.9243,0.00e+00,Yes
+density,137.7056,1.12e-162,Yes
+volatile acidity,76.4939,5.78e-92,Yes
+chlorides,76.4273,6.94e-92,Yes
+free sulfur dioxide,14.1804,4.31e-16,Yes
+citric acid,11.2544,1.59e-12,Yes
+fixed acidity,10.4889,1.34e-11,Yes
+residual sugar,10.2038,2.96e-11,Yes
+total sulfur dioxide,8.0855,1.02e-08,Yes
+sulphates,5.3339,1.69e-05,Yes
+pH,3.4943,0.0019,Yes

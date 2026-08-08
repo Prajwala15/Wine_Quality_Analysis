@@ -1,0 +1,12 @@
+Feature,Mean (High Q),Mean (Low Q),Difference,t-statistic,p-value,Significant
+fixed acidity,6.9968,7.2713,-0.2745,-6.4856,1.03e-10,Yes
+volatile acidity,0.2929,0.3898,-0.0968,-17.0207,4.37e-62,Yes
+citric acid,0.3358,0.2992,0.0366,6.6382,3.75e-11,Yes
+residual sugar,4.2491,5.2515,-1.0024,-6.1778,7.38e-10,Yes
+chlorides,0.0439,0.0605,-0.0166,-20.0737,3.40e-84,Yes
+free sulfur dioxide,30.3513,28.6215,1.7299,2.6004,0.0094,Yes
+total sulfur dioxide,106.1886,117.5115,-11.323,-5.1561,2.69e-07,Yes
+density,0.9927,0.9956,-0.0029,-29.0784,5.83e-164,Yes
+pH,3.2401,3.2166,0.0234,3.836,1.28e-04,Yes
+sulphates,0.5406,0.5199,0.0206,4.0675,4.87e-05,Yes
+alcohol,11.5732,9.9126,1.6606,45.0881,0.00e+00,Yes

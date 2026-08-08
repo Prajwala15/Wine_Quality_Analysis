@@ -1,0 +1,12 @@
+Feature,Pearson r,p-value,Significant,Strength,Direction
+alcohol,0.4697,3.63e-290,Yes,Moderate,Positive
+density,-0.3345,3.05e-139,Yes,Moderate,Negative
+chlorides,-0.2604,3.22e-83,Yes,Weak,Negative
+volatile acidity,-0.2576,2.24e-81,Yes,Weak,Negative
+citric acid,0.1069,5.39e-15,Yes,Weak,Positive
+fixed acidity,-0.0999,2.86e-13,Yes,Negligible,Negative
+free sulfur dioxide,0.0715,1.81e-07,Yes,Negligible,Positive
+residual sugar,-0.0565,3.76e-05,Yes,Negligible,Negative
+sulphates,0.0553,5.53e-05,Yes,Negligible,Positive
+total sulfur dioxide,-0.0471,5.88e-04,Yes,Negligible,Negative
+pH,0.0403,0.0033,Yes,Negligible,Positive

@@ -1,0 +1,7 @@
+Test,Variables,Statistic,p-value,Decision,Interpretation
+Pearson Correlation,Alcohol vs Quality,r = +0.44,<0.001,Reject H0,Significant positive correlation
+Pearson Correlation,Volatile Acidity vs Quality,r = -0.27,<0.001,Reject H0,Significant negative correlation
+One-Way ANOVA,Alcohol ~ Quality Levels,F = 308.92,<0.001,Reject H0,Alcohol differs across quality levels
+Independent T-Test,Alcohol: High vs Low Quality,t = 45.09,<0.001,Reject H0,High quality wines have higher alcohol
+Independent T-Test,Volatile Acidity: High vs Low,t = -17.02,<0.001,Reject H0,High quality wines have lower VA
+Chi-Square,Wine Type vs Quality Category,X2 = 35.02,2.49e-08,Reject H0,Wine type associated with quality
